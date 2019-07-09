@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291892048992",
+    "firebase_url": "https://fireness-18019.firebaseio.com",
+    "project_id": "fireness-18019",
+    "storage_bucket": "fireness-18019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291892048992:android:07b292e72fdb5bd6",
+        "android_client_info": {
+          "package_name": "com.example.fireness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291892048992-pndim7bmrugjv5c5bs7a9ltv9c1r74g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fireness",
+            "certificate_hash": "8f2d035278a5b5d7be455edc15cbdb376db07914"
+          }
+        },
+        {
+          "client_id": "291892048992-3728hc9p6eh0tp091s98nmfg38mm77ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuNdtHO7Rx_6ZRAYoVYkhiCm4IyxrBtC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291892048992-3728hc9p6eh0tp091s98nmfg38mm77ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
